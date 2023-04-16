@@ -1,0 +1,10 @@
+C:\Users\WardenZZZ\source\repos\Figures\FiguresApp\obj\Debug\FiguresApp.csprojAssemblyReference.cache
+C:\Users\WardenZZZ\source\repos\Figures\FiguresApp\obj\Debug\FiguresApp.csproj.CoreCompileInputs.cache
+C:\Users\WardenZZZ\source\repos\Figures\FiguresApp\bin\Debug\FiguresApp.exe.config
+C:\Users\WardenZZZ\source\repos\Figures\FiguresApp\bin\Debug\FiguresApp.exe
+C:\Users\WardenZZZ\source\repos\Figures\FiguresApp\bin\Debug\FiguresApp.pdb
+C:\Users\WardenZZZ\source\repos\Figures\FiguresApp\bin\Debug\FiguresLibrary.dll
+C:\Users\WardenZZZ\source\repos\Figures\FiguresApp\bin\Debug\FiguresLibrary.pdb
+C:\Users\WardenZZZ\source\repos\Figures\FiguresApp\obj\Debug\FiguresApp.csproj.CopyComplete
+C:\Users\WardenZZZ\source\repos\Figures\FiguresApp\obj\Debug\FiguresApp.exe
+C:\Users\WardenZZZ\source\repos\Figures\FiguresApp\obj\Debug\FiguresApp.pdb

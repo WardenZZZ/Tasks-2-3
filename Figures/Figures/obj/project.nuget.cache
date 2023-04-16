@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "whlPvCPl3GDFROSgZbdnEZAGHxeCcoUOzQF/179ZV7N+Cl5Z2tGz4leRVDXd7QiY2Pb+hh+Ly65BTT7m7JGvvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WardenZZZ\\source\\repos\\Figures\\Figures\\FiguresLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WardenZZZ\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\WardenZZZ\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
